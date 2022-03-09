@@ -1,4 +1,6 @@
-package main.java.com.fetchrewardsbackendexercise.repositories;
+package com.fetchrewardsbackendexercise.repositories;
+
+import com.fetchrewardsbackendexercise.models.Payer;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;

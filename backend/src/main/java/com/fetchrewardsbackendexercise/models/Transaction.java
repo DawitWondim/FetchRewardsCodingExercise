@@ -1,4 +1,4 @@
-package main.java.com.fetchrewardsbackendexercise.models;
+package com.fetchrewardsbackendexercise.models;
 
 import java.sql.Timestamp;
 
@@ -34,6 +34,10 @@ public class Transaction {
         this.payer = payer;
         this.points = points;
         this.timestamp = timestamp;
+    }
+
+    public Integer getId() {
+        return this.id;
     }
 
 }

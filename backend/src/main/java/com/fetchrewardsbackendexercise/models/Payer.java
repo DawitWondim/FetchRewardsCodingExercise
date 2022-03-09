@@ -1,4 +1,4 @@
-package main.java.com.fetchrewardsbackendexercise.models;
+package com.fetchrewardsbackendexercise.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
