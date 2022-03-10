@@ -1,4 +1,4 @@
-package com.fetchrewardsbackendexercise.models;
+package main.java.com.fetchrewardsbackendexercise.models;
 
 import java.sql.Timestamp;
 

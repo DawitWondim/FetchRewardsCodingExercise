@@ -1,8 +1,8 @@
-package com.fetchrewardsbackendexercise.repositories;
+package main.java.com.fetchrewardsbackendexercise.repositories;
 
 import java.util.List;
 
-import com.fetchrewardsbackendexercise.models.Transaction;
+import main.java.com.fetchrewardsbackendexercise.models.Transaction;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
