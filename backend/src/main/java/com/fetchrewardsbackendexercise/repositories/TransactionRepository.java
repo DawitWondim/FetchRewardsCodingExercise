@@ -11,4 +11,5 @@ import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 public interface TransactionRepository extends CrudRepository<Transaction, Integer> {
 
     List<Transaction> findByOrderByTimestamp();
+
 }
